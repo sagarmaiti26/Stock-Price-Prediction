@@ -6,20 +6,19 @@ Machine learning is a subfield of artificial intelligence (AI) that focuses on t
 development of algorithms and models that enable computers to learn from data and
 make predictions or decisions without being explicitly programmed. The working principle
 of machine learning involves several key components:
-> Data collection
-> Data preprocessing
-> Feature extraction and selection
-> Model selection and training
-> Evaluation and validation
-> Prediction or decision-making
-> Iterative refinement
+1) Data collection
+2) Data preprocessing
+3) Model selection and training
+4) Evaluation and validation
+5) Prediction or decision-making
+6) Iterative refinement 
 
 FUTURE SCOPE:-
-> Enhanced Prediction Models: These models can capture complex patterns and
+1) Enhanced Prediction Models:-- These models can capture complex patterns and
 dependencies in data, leading to more accurate predictions.
-> Real-Time Predictions: Faster computing and streaming data will enable traders and
+2) Real-Time Predictions:-- Faster computing and streaming data will enable traders and
 investors to make more informed decisions with real time predictions.
-> Automated Trading Systems: Automated trading systems that use stock price
+3) Automated Trading Systems:-- Automated trading systems that use stock price
 prediction models are a potential future development.
-> Risk Assessment: Machine learning models can be used to assess risk factors, such as
+4) Risk Assessment:-- Machine learning models can be used to assess risk factors, such as
 volatility, market risk, and systemic risk.
